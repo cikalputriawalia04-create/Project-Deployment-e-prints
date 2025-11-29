@@ -69,4 +69,7 @@ Role:
  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7319506d-b84d-4e62-aaa9-bdd10df650d0" />
  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/cc3b608b-42d3-4e8c-8625-579fee772895" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d54d45c4-ac7e-4f63-af13-ad3bb1379dbb" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f42671b4-f6d5-4205-9606-785ad078a62d" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/77816ff6-4e08-4b65-b5f0-a36337bc06ee" />
+
 
