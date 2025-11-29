@@ -56,7 +56,7 @@ Jika muncul daftar perintah → Perl fix berhasil.
 Contoh nama repository: repo1
 Jalankan:
 ```
-sudo -u eprints /opt/eprints3/bin/epadmin create repo1
+sudo -u eprints /opt/eprints3/bin/epadmin create repositori
 ```
 Wizard akan menanyakan:
 - Hostname
@@ -67,10 +67,10 @@ Wizard akan menanyakan:
 
 Contoh:
 ```
-Hostname: localhost
+Hostname: repo1.localdomain
 Port: 80
-Path: /repo1
-Admin email: admin@localdomain
+Path: /repositori
+Admin email: admin@repo1.localdomain
 ```
 Jika sukses, folder baru akan muncul:
 `/opt/eprints3/archives/repositori/`
