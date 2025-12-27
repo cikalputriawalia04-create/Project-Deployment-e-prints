@@ -31,7 +31,8 @@ Masuk ke MySQL:
 sudo mysql
 ```
 Jalankan:
-```CREATE DATABASE eprints CHARACTER SET utf8mb4;
+```
+CREATE DATABASE eprints CHARACTER SET utf8mb4;
 
 CREATE USER 'eprints'@'localhost' IDENTIFIED BY 'password_aman_disini';
 
